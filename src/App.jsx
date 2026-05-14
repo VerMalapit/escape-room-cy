@@ -1157,7 +1157,7 @@ function NameEntry({ onStart }) {
       <div className="scanlines" />
       <div style={{ maxWidth: 560, width: "100%", textAlign: "center", position: "relative", zIndex: 1 }}>
         <div style={{ fontSize: 10, color: C.textDim, letterSpacing: 6, marginBottom: 20 }}>
-          MATI // FUNDAMENTALS OF COMPUTING // END OF SEMESTER
+          MATI // COMPUTING DEPARTMENT // END OF SEMESTER
         </div>
 
         {/* V.E.R. title */}
@@ -1213,8 +1213,7 @@ function NameEntry({ onStart }) {
         }}>INITIATE SEQUENCE</button>
 
         <p style={{ color: C.textDim, fontSize: 11, marginTop: 18, lineHeight: 1.8 }}>
-          8 encrypted rooms · one per section covered in class<br />
-          Multiple teams can play simultaneously on separate devices
+          8 encrypted rooms · can you make it to the end?<br />
         </p>
       </div>
     </div>
